@@ -1,8 +1,8 @@
 class LuciqInstabugMcp < Formula
   desc "Bridge that turns a public Luciq (Instabug) bug-report URL into JSON, raw logs and screenshot — REST + MCP"
   homepage "https://github.com/fabiosoft/luciq-instabug-mcp"
-  url "https://github.com/fabiosoft/luciq-instabug-mcp/releases/download/v0.2.0/luciq-instabug-mcp-0.2.0.tar.gz"
-  sha256 "4b423ba6d614614a649533c652e7b371c79c7fea26d73e10ae65fcd6906cb74f"
+  url "https://github.com/fabiosoft/luciq-instabug-mcp/releases/download/v0.3.0/luciq-instabug-mcp-0.3.0.tar.gz"
+  sha256 "71e33a4af56443ec139827e6af669e78a2cab8a3dce10387d0ed2ca51431f922"
   license "MIT"
 
   depends_on "node"
